@@ -1,0 +1,262 @@
+{
+    "floors": [
+        {
+            "floorId": "Main floor",
+            "tables": [
+                {
+                    "tableId":1,
+                    "tableType": "square",
+                    "tableName": "T1",
+                    "capacity": 5,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":2,
+                    "tableType": "square",
+                    "tableName": "T2",
+                    "capacity": 5,
+                    "status": "available"
+                },
+                {
+                    "tableId":3,
+                    "tableType": "square",
+                    "tableName": "T3",
+                    "capacity": 6,
+                    "status": "available"
+                },
+                {
+                    "tableId":4,
+                    "tableType": "square",
+                    "tableName": "T4",
+                    "capacity": 4,
+                    "status": "available"
+                },
+                {
+                    "tableId":5,
+                    "tableType": "square",
+                    "tableName": "T5",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":6,
+                    "tableType": "square",
+                    "tableName": "T6",
+                    "capacity": 4,
+                    "status": "available"
+                },
+                {
+                    "tableId":7,
+                    "tableType": "square",
+                    "tableName": "T7",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":8,
+                    "tableType": "round",
+                    "tableName": "T8",
+                    "capacity": 7,
+                    "status": "busy"
+                },
+                {
+                    "tableId":9,
+                    "tableType": "square",
+                    "tableName": "T9",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":10,
+                    "tableType": "square",
+                    "tableName": "T10",
+                    "capacity": 5,
+                    "status": "available"
+                }
+            ]
+        },
+        {
+            "floorId": "Patio",
+            "tables": [
+                {
+                    "tableId":1,
+                    "tableType": "square",
+                    "tableName": "T1",
+                    "capacity": 4,
+                    "status": "available"
+                },
+                {
+                    "tableId":2,
+                    "tableType": "square",
+                    "tableName": "T2",
+                    "capacity": 6,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":3,
+                    "tableType": "square",
+                    "tableName": "T3",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":4,
+                    "tableType": "square",
+                    "tableName": "T4",
+                    "capacity": 2,
+                    "status": "available"
+                },
+                {
+                    "tableId":5,
+                    "tableType": "square",
+                    "tableName": "T5",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":6,
+                    "tableType": "square",
+                    "tableName": "T6",
+                    "capacity": 4,
+                    "status": "busy"
+                },
+                {
+                    "tableId":7,
+                    "tableType": "square",
+                    "tableName": "T7",
+                    "capacity": 7,
+                    "status": "busy"
+                },
+                {
+                    "tableId":8,
+                    "tableType": "round",
+                    "tableName": "T8",
+                    "capacity": 4,
+                    "status": "disabled"
+                }
+            ]
+        },
+        {
+            "floorId": "Bar",
+            "tables": [
+                {
+                    "tableId":1,
+                    "tableType": "square",
+                    "tableName": "T1",
+                    "capacity": 4,
+                    "status": "available"
+                },
+                {
+                    "tableId":2,
+                    "tableType": "square",
+                    "tableName": "T2",
+                    "capacity": 6,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":3,
+                    "tableType": "square",
+                    "tableName": "T3",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":4,
+                    "tableType": "square",
+                    "tableName": "T4",
+                    "capacity": 2,
+                    "status": "available"
+                },
+                {
+                    "tableId":5,
+                    "tableType": "square",
+                    "tableName": "T5",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":6,
+                    "tableType": "square",
+                    "tableName": "T6",
+                    "capacity": 4,
+                    "status": "busy"
+                }
+            ]
+        },
+        {
+            "floorId": "Second Floor",
+            "tables": [
+                {
+                    "tableId":1,
+                    "tableType": "square",
+                    "tableName": "T1",
+                    "capacity": 4,
+                    "status": "available"
+                },
+                {
+                    "tableId":2,
+                    "tableType": "square",
+                    "tableName": "T2",
+                    "capacity": 6,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":3,
+                    "tableType": "square",
+                    "tableName": "T3",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":4,
+                    "tableType": "square",
+                    "tableName": "T4",
+                    "capacity": 2,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":5,
+                    "tableType": "square",
+                    "tableName": "T5",
+                    "capacity": 4,
+                    "status": "available"
+                },
+                {
+                    "tableId":6,
+                    "tableType": "square",
+                    "tableName": "T6",
+                    "capacity": 4,
+                    "status": "busy"
+                },
+                {
+                    "tableId":7,
+                    "tableType": "square",
+                    "tableName": "T7",
+                    "capacity": 7,
+                    "status": "busy"
+                },
+                {
+                    "tableId":8,
+                    "tableType": "round",
+                    "tableName": "T8",
+                    "capacity": 4,
+                    "status": "disabled"
+                },
+                {
+                    "tableId":7,
+                    "tableType": "square",
+                    "tableName": "T9",
+                    "capacity": 7,
+                    "status": "available"
+                },
+                {
+                    "tableId":8,
+                    "tableType": "round",
+                    "tableName": "T10",
+                    "capacity": 4,
+                    "status": "available"
+                }
+            ]
+        }
+    ]
+}

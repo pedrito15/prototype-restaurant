@@ -19,7 +19,7 @@ class FloorPage extends StatefulWidget {
   _FloorPageState createState() => _FloorPageState();
 }
 
-class _FloorPageState  extends State<FloorPage> {
+class _FloorPageState  extends State<FloorPage>{
   
   int currentIndex = 0;
   String title = "Main Floor";

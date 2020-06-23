@@ -15,7 +15,6 @@ class MyApp extends StatelessWidget {
       statusBarColor: Colors.transparent
     ));
 
-
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Restaurant Prototype',
@@ -25,5 +24,4 @@ class MyApp extends StatelessWidget {
       },
     );
   }
-
 }
